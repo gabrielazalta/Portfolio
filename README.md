@@ -6,7 +6,6 @@ To showcase projects and bio for Gabriela Zalta
 ## Built With
 * HTML
 * CSS
-* JavaScript
 * Bootstrap
 
 
